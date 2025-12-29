@@ -1,14 +1,18 @@
-# Abhishek S
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Abhishek%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### AI & Machine Learning Engineer | B.Tech Student at Lovely Professional University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek18)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhishek14311431)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishekyadavv4567@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/abhishek18)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/abhishek14311431)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhishekyadavv4567@gmail.com)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
-## About Me
+</div>
+
+## 👨‍💻 About Me
 
 I am an AI and Machine Learning engineering student with a strong foundation in developing intelligent systems and data-driven solutions. My experience spans from hands-on machine learning projects to practical engineering work, combining technical expertise with real-world problem-solving skills.
 
@@ -18,28 +22,37 @@ I am an AI and Machine Learning engineering student with a strong foundation in 
 - 📍 Based in Phagwara, Punjab, India
 - 📧 Contact: abhishekyadavv4567@gmail.com
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## Technical Skills
+## 🛠️ Technical Skills
 
 **Programming Languages**  
-Python • R • C++ • Java
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
 
 **AI/ML Frameworks & Libraries**  
-NumPy • Pandas • Scikit-learn • TensorFlow • Matplotlib
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
 
 **Development Tools**  
-Git & GitHub • VS Code • MongoDB • SQL
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 
 **Web Technologies**  
-React • Node.js • Express
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=000000)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Core Competencies**  
-Machine Learning • Data Analysis • Algorithm Design • Problem Solving • Statistical Analysis
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
----
-
-## Professional Experience
+## 💼 Professional Experience
 
 **On-Site Engineer Intern** | Mantha Architects  
 *June 2025 – August 2025*
@@ -50,9 +63,9 @@ Machine Learning • Data Analysis • Algorithm Design • Problem Solving • 
 - Supervised daily site operations while providing technical guidance to team members
 - Recognized as "Best Performer" for exceptional project delivery and team coordination
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## Projects
+## 🚀 Projects
 
 ### AI-Assisted Residential Planning System
 *August 2025*
@@ -67,6 +80,8 @@ Developed a backend system that automatically generates residential floor plans 
 
 **Technologies:** Python, Matplotlib, SVG, Object-Oriented Programming, Rule-Based Systems
 
+---
+
 ### Air & Water Quality Monitoring System
 *March 2024*
 
@@ -80,26 +95,26 @@ Built a comprehensive environmental monitoring system for real-time analysis of 
 
 **Technologies:** Python, Streamlit/Flask, Pandas, Data Analysis, Database Management
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## Certifications
+## 📜 Certifications
 
 - **AI Foundations Associate** – Oracle (October 2025)
 - **Python with Data Structures & Algorithms** – CSE Patashala (July 2025)
 - **Python Crash Course** – Coursera (February 2023)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## Achievements
+## 🏆 Achievements
 
 - 🏆 Best Performer Award – Mantha Architects Internship (September 2025)
 - 🎖️ Certificate of Excellence – Online Competitive Programming Challenges (November 2024)
 - 📊 Completed 100+ hours of hands-on Machine Learning and Data Science projects (July 2024)
 - 🥇 First Place – Inter-College Aptitude Competition (January 2023)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## Education
+## 🎓 Education
 
 **Bachelor of Technology in Artificial Intelligence and Machine Learning**  
 Lovely Professional University, Phagwara, Punjab  
@@ -113,24 +128,26 @@ Expert PU College, Mangalore, Karnataka
 Jain Public School, Chintamani, Karnataka  
 *2021* | Percentage: 79.83%
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-
-
----
-
-## Connect With Me
+## 📫 Connect With Me
 
 I'm open to collaboration opportunities, research discussions, and professional networking in the field of AI and Machine Learning.
 
-- **LinkedIn:** [linkedin.com/in/abhishek18](https://linkedin.com/in/abhishek18)
-- **Email:** abhishekyadavv4567@gmail.com
-- **Phone:** +91-8867142526
+<div align="center">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/abhishek18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:abhishekyadavv4567@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+918867142526)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek14311431&color=0077B5&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek14311431&color=blue&style=flat)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=120&section=footer)
 
 </div>
