@@ -115,17 +115,7 @@ Jain Public School, Chintamani, Karnataka
 
 ---
 
-## GitHub Statistics
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek14311431&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek14311431&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek14311431&theme=default&hide_border=true)
-
-</div>
 
 ---
 
