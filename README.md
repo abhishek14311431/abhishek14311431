@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Abhishek%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=ABHISHEK%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 ### AI & Machine Learning Engineer | B.Tech Student at Lovely Professional University
 
