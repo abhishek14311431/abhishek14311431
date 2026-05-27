@@ -1,14 +1,11 @@
 <div align="center">
 
-<!-- Animated Header Banner - capsule-render is reliable -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhishek%20S&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descColor=a78bfa" width="100%"/>
 
-<!-- Typing Animation - reliable service -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;AI+%26+ML+Engineer+in+Progress+%F0%9F%9A%80;Full+Stack+%7C+Python+%7C+React+%7C+FastAPI;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Social Badges -->
 <a href="https://linkedin.com/in/abhishek18">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -26,31 +23,44 @@
 
 ## 🧠 About Me
 
-> 🎓 **B.Tech AI & ML** student @ Lovely Professional University  
-> 🔬 Obsessed with building systems that **think, adapt, and act**  
-> 🏆 Best Performer @ Mantha Architects | 1st Place Inter-college Aptitude  
-> 🌍 Based in India — building AI that works in the real world  
+Hey there! I'm **Abhishek S**, an AI & ML engineering student from **Chintamani, Karnataka** 🇮🇳 — currently pursuing my **B.Tech in Artificial Intelligence & Machine Learning** at **Lovely Professional University, Punjab** (CGPA: **7.02/10**).
 
-```
-  📍 Location    →  Punjab, India
-  🎯 Focus       →  Machine Learning · Behavioral AI · Full Stack
-  🔭 Currently   →  Crafting AI-driven real-world solutions
-  💡 Philosophy  →  "Automate the boring. Innovate the rest."
-  ⚡ Fun Fact    →  I make computers think so humans don't have to
-```
+My journey started strong — I scored **83.8%** in my 10th at Jain Public School, Chintamani, then pushed harder and achieved **89.4%** in my Pre-University Science stream at Expert PU College, Mangalore. That momentum carried me into engineering, where I found my true passion: **building AI systems that solve real problems**.
 
-<details>
-<summary>🔍 <b>Click to know more about me...</b></summary>
-<br/>
+Since joining LPU in 2023, I've been going beyond the classroom:
 
-- 🤖 I love building **AI systems that solve real-world problems** — not just toy projects
-- 🔐 My latest work focuses on **behavioral biometrics** and **zero-trust security**
-- 🏗️ I've applied ML to **construction cost estimation** with 92% model accuracy
-- 📊 Completed **100+ hours** of hands-on AI/ML project experience
-- 🧩 Strong believer in **Explainable AI** — models should justify their decisions
-- 🎯 Always leveling up — 4 certifications earned in the last year alone
+- 🏗️ Completed a **Site Engineer Internship at Mantha Architects** (Jun–Sep 2025), where I was recognized as **Best Performer** — I didn't just observe, I built a **hybrid AI cost estimation system** using Random Forest that actually automated their workflows
+- 🔐 Built a **real-time Behavioral Authentication System** that detects intruders through cursor & keystroke patterns using Isolation Forest — achieving **92.5–94% accuracy**
+- 🏆 Won **1st place** in an inter-college aptitude competition and clocked **100+ hours** of hands-on AI/ML experience
+- 📜 Earned **4 certifications** in under a year — HackerRank, Oracle (x2), and CSE Patashala
 
-</details>
+I work across the full stack — **Python, React, FastAPI** on the code side, and **Scikit-learn, Random Forest, Isolation Forest** on the ML side. I care deeply about **Explainable AI** — models should justify their decisions, not just make them.
+
+> 💡 *"I came from Karnataka, studied in Punjab, and I'm building for the world."*
+
+---
+
+## 🎓 Education
+
+| 🏫 Institution | 📚 Course | 📊 Score | 📅 Year |
+|---|---|---|---|
+| Lovely Professional University, Punjab | B.Tech — AI & ML | CGPA: **7.02** | 2023 – Present |
+| Expert PU College, Mangalore | Pre-University (Science) | **89.4%** | Jun 2023 |
+| Jain Public School, Chintamani | Secondary (10th) | **83.8%** | Mar 2021 |
+
+---
+
+## 💼 Experience
+
+**🏢 Site Engineer Intern — Mantha Architects** *(Jun 2025 – Sep 2025)*
+
+> 🏆 Awarded **Best Performer** during the internship
+
+- Developed a **hybrid AI-based cost estimation system** combining rule-based logic with Random Forest
+- Automated cost calculation workflows, reducing manual effort and improving estimation efficiency
+- Managed daily site activities, tracked cost expenditures across interior, exterior, and structural works
+- Interpreted structural drawings and monitored material usage as per approved plans
+- Coordinated with contractors and clients for timely project progress and milestone compliance
 
 ---
 
@@ -82,7 +92,7 @@
 
 - 🏠 Supports rental/own-house estimation with **dynamic G+N floor scaling**
 - 💎 Tier-based modeling: Basic → Classic → Premium → Luxury
-- 📈 **Random Forest Regression** with **92% R²** score
+- 📈 **Random Forest Regression** with **92% R²** accuracy
 - 📄 XAI layer to justify cost distribution + **automated PDF reports**
 
 ---
@@ -158,16 +168,9 @@
 
 ---
 
-## 💼 Experience
-
-**🏢 Site Engineer Intern — Mantha Architects** *(Jun 2025 – Sep 2025)*
-> Developed a hybrid AI-based cost estimation system (rule-based + Random Forest). Automated cost workflows, interpreted structural drawings, monitored material usage, and coordinated with contractors & clients.
-
----
-
 <div align="center">
 
-### 💬 *"Turning data into intelligence, one model at a time."*
+### 💬 *"I came from Karnataka, studied in Punjab, and I'm building for the world."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
